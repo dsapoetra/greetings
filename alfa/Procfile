@@ -1,0 +1,1 @@
+web: java $JVM_OPTS -cp target/uberjar/alfa.jar clojure.main -m alfa.core
